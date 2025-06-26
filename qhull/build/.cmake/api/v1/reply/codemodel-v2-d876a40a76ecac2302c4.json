@@ -1,0 +1,232 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-077714e4931226cb5561.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qhull",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "libqhull::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libqhull-Debug-e7ba3d4ceb06e1a0fa28.json",
+					"name" : "libqhull",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qconvex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qconvex-Debug-66b26e06e95d7c8247d6.json",
+					"name" : "qconvex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qdelaunay::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qdelaunay-Debug-87549e82b56bf7891798.json",
+					"name" : "qdelaunay",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhalf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhalf-Debug-3a101d6ee70f9fcf5c92.json",
+					"name" : "qhalf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhull::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhull-Debug-4ab6adefd9f12cd2f57f.json",
+					"name" : "qhull",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhull_p::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhull_p-Debug-bd03a961505c5baaca28.json",
+					"name" : "qhull_p",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhull_r::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhull_r-Debug-a9a4b07a1f021aaba9a2.json",
+					"name" : "qhull_r",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhullcpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhullcpp-Debug-c785aac3e03b004c79d8.json",
+					"name" : "qhullcpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhullp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhullp-Debug-5f151b5856f218f85277.json",
+					"name" : "qhullp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhullstatic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhullstatic-Debug-00f023f1ffb4768600d8.json",
+					"name" : "qhullstatic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhullstatic_r::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhullstatic_r-Debug-34e8e6d27645d39a3e6e.json",
+					"name" : "qhullstatic_r",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qvoronoi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qvoronoi-Debug-601c3ee5d1b56a84c116.json",
+					"name" : "qvoronoi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbox::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbox-Debug-54da84f50650c2d3dff8.json",
+					"name" : "rbox",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testqset::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testqset-Debug-8a771127764f13eaa872.json",
+					"name" : "testqset",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testqset_r::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testqset_r-Debug-ba4affb9784fa5140f76.json",
+					"name" : "testqset_r",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-7cedb80a2115e27f56ad.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "user_eg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-user_eg-Debug-0fe035d122d8c65564ea.json",
+					"name" : "user_eg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "user_eg2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-user_eg2-Debug-9252da4f5d7bddcae324.json",
+					"name" : "user_eg2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "user_eg3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-user_eg3-Debug-1377e0f44731f5731f51.json",
+					"name" : "user_eg3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "user_egp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-user_egp-Debug-5d7717ee7a6179e48a84.json",
+					"name" : "user_egp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+		"source" : "/home/kalmander/Documents/Sumar2025/qhull_env/qhull"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

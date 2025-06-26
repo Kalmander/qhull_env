@@ -1,0 +1,758 @@
+[
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/global_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/global_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/global_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/global_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/stat_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/stat_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/stat_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/stat_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/geom2_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/geom2_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/geom2_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/geom2_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/poly2_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/poly2_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/poly2_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/poly2_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/merge_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/merge_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/merge_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/merge_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/libqhull_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/libqhull_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/libqhull_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/libqhull_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/geom_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/geom_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/geom_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/geom_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/poly_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/poly_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/poly_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/poly_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/qset_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/qset_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/qset_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/qset_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/mem_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/mem_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/mem_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/mem_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/random_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/random_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/random_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/random_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/usermem_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/usermem_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/usermem_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/usermem_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/userprintf_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/userprintf_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/userprintf_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/userprintf_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/io_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/io_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/io_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/io_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/user_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/user_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/user_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/user_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/accessors_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/accessors_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/accessors_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/accessors_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/rboxlib_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/rboxlib_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/rboxlib_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/rboxlib_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqhull_r_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_r.dir/src/libqhull_r/userprintf_rbox_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/userprintf_rbox_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/userprintf_rbox_r.c",
+  "output": "CMakeFiles/qhull_r.dir/src/libqhull_r/userprintf_rbox_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/global.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/global.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/global.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/global.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/stat.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/stat.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/stat.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/stat.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/geom2.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/geom2.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/geom2.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/geom2.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/poly2.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/poly2.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/poly2.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/poly2.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/merge.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/merge.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/merge.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/merge.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/libqhull.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/libqhull.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/libqhull.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/libqhull.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/geom.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/geom.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/geom.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/geom.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/poly.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/poly.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/poly.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/poly.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/qset.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/qset.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/qset.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/qset.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/mem.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/mem.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/mem.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/mem.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/random.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/random.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/random.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/random.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/usermem.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/usermem.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/usermem.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/usermem.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/userprintf.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/userprintf.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/userprintf.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/userprintf.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/io.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/io.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/io.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/io.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/user.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/user.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/user.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/user.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/rboxlib.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/rboxlib.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/rboxlib.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/rboxlib.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dlibqhull_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/libqhull.dir/src/libqhull/userprintf_rbox.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/userprintf_rbox.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/userprintf_rbox.c",
+  "output": "CMakeFiles/libqhull.dir/src/libqhull/userprintf_rbox.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/global.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/global.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/global.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/global.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/stat.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/stat.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/stat.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/stat.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/geom2.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/geom2.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/geom2.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/geom2.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/poly2.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/poly2.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/poly2.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/poly2.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/merge.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/merge.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/merge.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/merge.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/libqhull.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/libqhull.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/libqhull.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/libqhull.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/geom.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/geom.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/geom.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/geom.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/poly.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/poly.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/poly.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/poly.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/qset.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/qset.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/qset.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/qset.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/mem.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/mem.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/mem.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/mem.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/random.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/random.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/random.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/random.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/usermem.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/usermem.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/usermem.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/usermem.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/userprintf.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/userprintf.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/userprintf.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/userprintf.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/io.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/io.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/io.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/io.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/user.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/user.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/user.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/user.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/rboxlib.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/rboxlib.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/rboxlib.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/rboxlib.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -Dqhull_p_EXPORTS -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhull_p.dir/src/libqhull/userprintf_rbox.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/userprintf_rbox.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/userprintf_rbox.c",
+  "output": "CMakeFiles/qhull_p.dir/src/libqhull/userprintf_rbox.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/global.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/global.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/global.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/global.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/stat.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/stat.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/stat.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/stat.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/geom2.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/geom2.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/geom2.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/geom2.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/poly2.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/poly2.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/poly2.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/poly2.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/merge.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/merge.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/merge.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/merge.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/libqhull.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/libqhull.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/libqhull.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/libqhull.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/geom.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/geom.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/geom.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/geom.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/poly.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/poly.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/poly.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/poly.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/qset.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/qset.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/qset.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/qset.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/mem.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/mem.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/mem.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/mem.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/random.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/random.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/random.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/random.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/usermem.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/usermem.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/usermem.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/usermem.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/userprintf.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/userprintf.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/userprintf.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/userprintf.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/io.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/io.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/io.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/io.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/user.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/user.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/user.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/user.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/rboxlib.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/rboxlib.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/rboxlib.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/rboxlib.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic.dir/src/libqhull/userprintf_rbox.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/userprintf_rbox.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/userprintf_rbox.c",
+  "output": "CMakeFiles/qhullstatic.dir/src/libqhull/userprintf_rbox.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/global_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/global_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/global_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/global_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/stat_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/stat_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/stat_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/stat_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/geom2_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/geom2_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/geom2_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/geom2_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/poly2_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/poly2_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/poly2_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/poly2_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/merge_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/merge_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/merge_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/merge_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/libqhull_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/libqhull_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/libqhull_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/libqhull_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/geom_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/geom_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/geom_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/geom_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/poly_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/poly_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/poly_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/poly_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/qset_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/qset_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/qset_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/qset_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/mem_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/mem_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/mem_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/mem_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/random_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/random_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/random_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/random_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/usermem_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/usermem_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/usermem_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/usermem_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/userprintf_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/userprintf_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/userprintf_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/userprintf_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/io_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/io_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/io_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/io_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/user_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/user_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/user_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/user_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/accessors_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/accessors_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/accessors_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/accessors_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/rboxlib_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/rboxlib_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/rboxlib_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/rboxlib_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullstatic_r.dir/src/libqhull_r/userprintf_rbox_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/userprintf_rbox_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/userprintf_rbox_r.c",
+  "output": "CMakeFiles/qhullstatic_r.dir/src/libqhull_r/userprintf_rbox_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/Coordinates.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/Coordinates.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/Coordinates.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/Coordinates.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/PointCoordinates.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/PointCoordinates.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/PointCoordinates.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/PointCoordinates.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/Qhull.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/Qhull.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/Qhull.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/Qhull.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullFacet.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullFacet.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullFacet.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullFacet.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullFacetList.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullFacetList.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullFacetList.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullFacetList.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullFacetSet.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullFacetSet.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullFacetSet.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullFacetSet.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullHyperplane.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullHyperplane.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullHyperplane.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullHyperplane.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullPoint.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullPoint.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullPoint.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullPoint.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullPointSet.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullPointSet.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullPointSet.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullPointSet.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullPoints.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullPoints.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullPoints.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullPoints.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullQh.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullQh.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullQh.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullQh.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullRidge.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullRidge.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullRidge.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullRidge.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullSet.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullSet.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullSet.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullSet.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullStat.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullStat.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullStat.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullStat.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullUser.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullUser.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullUser.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullUser.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullVertex.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullVertex.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullVertex.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullVertex.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullVertexSet.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullVertexSet.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/QhullVertexSet.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/QhullVertexSet.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/RboxPoints.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/RboxPoints.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/RboxPoints.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/RboxPoints.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/RoadError.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/RoadError.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/RoadError.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/RoadError.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -fPIC -o CMakeFiles/qhullcpp.dir/src/libqhullcpp/RoadLogEvent.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/RoadLogEvent.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhullcpp/RoadLogEvent.cpp",
+  "output": "CMakeFiles/qhullcpp.dir/src/libqhullcpp/RoadLogEvent.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qconvex.dir/src/qconvex/qconvex.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/qconvex/qconvex.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/qconvex/qconvex.c",
+  "output": "CMakeFiles/qconvex.dir/src/qconvex/qconvex.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qdelaunay.dir/src/qdelaunay/qdelaun.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/qdelaunay/qdelaun.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/qdelaunay/qdelaun.c",
+  "output": "CMakeFiles/qdelaunay.dir/src/qdelaunay/qdelaun.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhalf.dir/src/qhalf/qhalf.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/qhalf/qhalf.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/qhalf/qhalf.c",
+  "output": "CMakeFiles/qhalf.dir/src/qhalf/qhalf.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhull.dir/src/qhull/unix_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/qhull/unix_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/qhull/unix_r.c",
+  "output": "CMakeFiles/qhull.dir/src/qhull/unix_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qvoronoi.dir/src/qvoronoi/qvoronoi.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/qvoronoi/qvoronoi.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/qvoronoi/qvoronoi.c",
+  "output": "CMakeFiles/qvoronoi.dir/src/qvoronoi/qvoronoi.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/rbox.dir/src/rbox/rbox.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/rbox/rbox.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/rbox/rbox.c",
+  "output": "CMakeFiles/rbox.dir/src/rbox/rbox.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/testqset.dir/src/libqhull/qset.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/qset.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/qset.c",
+  "output": "CMakeFiles/testqset.dir/src/libqhull/qset.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/testqset.dir/src/libqhull/mem.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/mem.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/mem.c",
+  "output": "CMakeFiles/testqset.dir/src/libqhull/mem.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/testqset.dir/src/libqhull/usermem.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/usermem.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull/usermem.c",
+  "output": "CMakeFiles/testqset.dir/src/libqhull/usermem.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/testqset.dir/src/testqset/testqset.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/testqset/testqset.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/testqset/testqset.c",
+  "output": "CMakeFiles/testqset.dir/src/testqset/testqset.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/testqset_r.dir/src/libqhull_r/qset_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/qset_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/qset_r.c",
+  "output": "CMakeFiles/testqset_r.dir/src/libqhull_r/qset_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/testqset_r.dir/src/libqhull_r/mem_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/mem_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/mem_r.c",
+  "output": "CMakeFiles/testqset_r.dir/src/libqhull_r/mem_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/testqset_r.dir/src/libqhull_r/usermem_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/usermem_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/libqhull_r/usermem_r.c",
+  "output": "CMakeFiles/testqset_r.dir/src/libqhull_r/usermem_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/testqset_r.dir/src/testqset_r/testqset_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/testqset_r/testqset_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/testqset_r/testqset_r.c",
+  "output": "CMakeFiles/testqset_r.dir/src/testqset_r/testqset_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/user_eg.dir/src/user_eg/user_eg_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/user_eg/user_eg_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/user_eg/user_eg_r.c",
+  "output": "CMakeFiles/user_eg.dir/src/user_eg/user_eg_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/user_eg2.dir/src/user_eg2/user_eg2_r.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/user_eg2/user_eg2_r.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/user_eg2/user_eg2_r.c",
+  "output": "CMakeFiles/user_eg2.dir/src/user_eg2/user_eg2_r.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/g++  -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/user_eg3.dir/src/user_eg3/user_eg3_r.cpp.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/user_eg3/user_eg3_r.cpp",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/user_eg3/user_eg3_r.cpp",
+  "output": "CMakeFiles/user_eg3.dir/src/user_eg3/user_eg3_r.cpp.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/qhullp.dir/src/qhull/unix.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/qhull/unix.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/qhull/unix.c",
+  "output": "CMakeFiles/qhullp.dir/src/qhull/unix.c.o"
+},
+{
+  "directory": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/build",
+  "command": "/run/current-system/sw/bin/gcc -Dqh_QHpointer -I/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src -g -o CMakeFiles/user_egp.dir/src/user_eg/user_eg.c.o -c /home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/user_eg/user_eg.c",
+  "file": "/home/kalmander/Documents/Sumar2025/qhull_env/qhull/src/user_eg/user_eg.c",
+  "output": "CMakeFiles/user_egp.dir/src/user_eg/user_eg.c.o"
+}
+]
